@@ -1,0 +1,23 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+logs/
